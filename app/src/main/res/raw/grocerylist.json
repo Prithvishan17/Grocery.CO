@@ -1,0 +1,190 @@
+[
+    {
+      "name":"Fruits",
+      "service_charge": 5,
+      "image":"https://hips.hearstapps.com/del.h-cdn.co/assets/16/15/1460645766-fruit-salad.png?crop=0.8994082840236687xw:1xh;center,top&resize=1200:*",
+
+      "menus": [
+        {
+          "name": "Apple",
+          "price": 12.00,
+          "url": "https://www.seekpng.com/png/detail/153-1537893_red-apples-png-maa-com-fundo-branco.png"
+        },
+        {
+          "name": "Orange",
+          "price": 10.00,
+          "url": "https://pngfre.com/wp-content/uploads/orange-1.jpg"
+        },
+        {
+          "name": "Banana",
+          "price": 10.50,
+          "url": "https://www.pngitem.com/pimgs/m/263-2630791_fruits-banana-png-transparent-png.png"
+        },
+        {
+          "name": "Dragonfruit Vietnam",
+          "price": 11.00,
+          "url": "https://www.pngitem.com/pimgs/m/111-1113777_1-mcp-on-dragon-fruit-transparent-dragon-fruit.png"
+        },
+        {
+          "name": "Strawberry (Imported Packet)",
+          "price": 13.50,
+          "url": "https://simg.nicepng.com/png/small/380-3804960_strawberry-png-free-download-pik-jelly-crystals-strawberry.png"
+        },
+        {
+          "name": "Blueberry (Imported Packet)",
+          "price": 11.50,
+          "url": "https://www.pngitem.com/pimgs/m/118-1184742_blueberry-png-image-black-currant-or-blueberries-transparent.png"
+        }
+
+      ]
+    },
+    {
+      "name":"Vegetables",
+      "image":"https://riseandshine.childrensnational.org/wp-content/uploads/2021/09/colorful-fruits-and-vegetables-feature.png",
+
+      "menus": [
+        {
+          "name": "Spinach",
+          "price": 9.00,
+          "url": "https://pasarman.com/wp-content/uploads/sites/5/2019/03/bayam-hijau-1.jpg"
+        },
+        {
+          "name": "Bean Sprout",
+          "price": 8.50,
+          "url": "https://w7.pngwing.com/pngs/136/715/png-transparent-vegetarian-cuisine-food-sprouting-mung-bean-mung.png"
+        },
+        {
+          "name": "Cabbage",
+          "price": 9.00,
+          "url": "https://www.pngitem.com/pimgs/m/474-4746897_cabbage-png-high-quality-image-cabbage-png-transparent.png"
+        },
+        {
+          "name": "Broccoli",
+          "price": 11.00,
+          "url": "https://www.pngitem.com/pimgs/m/43-436158_broccoli-png-hd-transparent-png.png"
+        },
+        {
+          "name": "Carrot",
+          "price": 8.00,
+          "url": "https://www.nicepng.com/png/detail/14-143608_carrot-png-download-image-food-we-get-from.png"
+        },
+        {
+          "name": "Cauliflower",
+          "price": 9.50,
+          "url": "https://www.pngitem.com/pimgs/m/293-2930046_white-cauliflower-png-background-phul-gobhi-transparent-png.png"
+        }
+      ]
+    },
+  {
+    "name":"Dry/Baking Goods",
+    "image":"https://www.eatthis.com/wp-content/uploads/sites/4/2021/09/Untitled-design-47.png?w=640&quality=82&strip=1",
+    
+    "menus": [
+      {
+        "name": "Baking powder",
+        "price": 5.00,
+        "url": "https://eurousa.com/wp-content/uploads/141514-argo-baking-powder-01.jpg"
+      },
+      {
+        "name": "Chocolate Chips",
+        "price": 5.50,
+        "url": "https://www.nicepng.com/png/full/288-2881184_barry-callebaut-dark-chocolate-chips-dark-chocolate-chips.png"
+      },
+      {
+        "name": "Flour",
+        "price": 4.00,
+        "url": "https://www.pngitem.com/pimgs/m/179-1799364_wheat-flour-png-transparent-png.png"
+      },
+      {
+        "name": "Milo",
+        "price": 10.00,
+        "url": "https://www.pngitem.com/pimgs/m/343-3437548_milo-strategies-nestle-milo-milo-png-transparent-png.png"
+      },
+      {
+        "name": "Nescafe",
+        "price": 14.00,
+        "url": "https://www.seekpng.com/png/detail/424-4243400_nescaf-my-cup-3in1-regular-coffee-mix-20g.png"
+      },
+      {
+        "name": "Tea",
+        "price": 6.00,
+        "url": "https://bohtea.com/wp-content/uploads/2017/10/lesssugar-zoom.png"
+      }
+
+    ]
+  },
+  {
+    "name":"Fresh Meats",
+    "image":"https://sustainablenutritioninitiative.com/wp-content/uploads/2022/08/SNippet-article-5.png",
+
+    "menus": [
+      {
+        "name": "Chicken",
+        "price": 9.00,
+        "url": "https://www.nicepng.com/png/detail/12-129625_chicken-png-free-commercial-use-images-chicken-meat.png"
+      },
+      {
+        "name": "Beef",
+        "price": 8.50,
+        "url": "https://cdn.shopify.com/s/files/1/0583/4647/1458/collections/beef-fish-club.png?v=1667225498&width=750"
+      },
+      {
+        "name": "Turkey",
+        "price": 9.00,
+        "url": "https://www.pngfind.com/pngs/m/148-1488110_pre-cooked-turkey-roasted-chicken-png-transparent-png.png"
+      },
+      {
+        "name": "Duck",
+        "price": 11.00,
+        "url": "https://www.pngitem.com/pimgs/m/486-4863088_transparent-chicken-breast-png-pressed-duck-png-download.png"
+      },
+      {
+        "name": "Fish",
+        "price": 8.00,
+        "url": "https://previews.123rf.com/images/belchonock/belchonock1501/belchonock150101804/34952678-fresh-catch-of-fish-and-other-seafood-isolated-on-white.jpg"
+      },
+      {
+        "name": "Lamb",
+        "price": 9.50,
+        "url": "https://www.nicepng.com/png/detail/235-2353318_fresh-choice-lamb-lamb-meat-png.png"
+      }
+    ]
+  },
+  {
+    "name":"Dairy Products",
+    "image":"https://mishry.com/wp-content/uploads/2020/08/best-dairy-products.png",
+
+    "menus": [
+      {
+        "name": "Milk",
+        "price": 9.00,
+        "url": "https://www.dutchladyprofessionals.com/wp-content/uploads/2018/04/DLBH_instant-whole-milk_combie.png"
+      },
+      {
+        "name": "Butter",
+        "price": 8.50,
+        "url": "https://www.nicepng.com/png/detail/37-372329_anchor-food-professionals-anchor-butter-png.png"
+      },
+      {
+        "name": "Cheddar Cheese",
+        "price": 9.00,
+        "url": "https://www.seekpng.com/png/detail/345-3457467_united-kingdom-cheese-cheddar-cheese.png"
+      },
+      {
+        "name": "Yoghurt",
+        "price": 11.00,
+        "url": "https://www.pngkit.com/png/detail/949-9497779_frozen-yogurt-s-strawberry-yogurt-png.png"
+      },
+      {
+        "name": "Ice Cream",
+        "price": 8.00,
+        "url": "https://www.citypng.com/public/uploads/preview/three-ice-cream-cones-image-png-11653393477pfblpelvxk.png"
+      },
+      {
+        "name": "Whipping Cream",
+        "price": 9.50,
+        "url": "https://i.ytimg.com/vi/thstGZfUfZo/sddefault.jpg"
+      }
+    ]
+  }
+]
